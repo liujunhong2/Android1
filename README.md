@@ -1,3 +1,1 @@
-# This is the record of my leaning of Android Development
-
-from liujunhong
+# This is the record of liujunhong's leaning of Android Development
